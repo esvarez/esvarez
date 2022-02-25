@@ -1,6 +1,6 @@
 ### Hi, I'm Erick 👋
 
-🌍 [Personal Site](http://ericksuarez.dev/)
+🌍 [My blog](http://ericksuarez.dev/)
 
 
 
